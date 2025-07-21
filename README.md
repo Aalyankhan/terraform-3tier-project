@@ -106,5 +106,3 @@ After deployment, Terraform will output:
 ## 📧 Contact
 
 For any issues or suggestions, please contact \[Aalyan Khan] at \[[aalyankhan029@gmail.com](mailto:aalyankhan029@gmail.com)].
-
-```
