@@ -2,7 +2,6 @@
 # This module sets up an Application Load Balancer (ALB) with security groups and target groups.
 module "alb_http_sg" {
   source  = "terraform-aws-modules/security-group/aws//modules/http-80"
-  version = "~> 4.0"
 
   name        = var.alb_sg_name
   vpc_id      = module.vpc.vpc_id
