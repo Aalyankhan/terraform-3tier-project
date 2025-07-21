@@ -1,5 +1,5 @@
 
-```markdown
+
 # AWS 3-Tier Architecture with Terraform
 
 This project sets up a **highly available 3-tier architecture** on AWS using Terraform. The infrastructure includes a **VPC**, **public/private subnets**, **Application Load Balancer (ALB)**, **Auto Scaling Group (ASG) of EC2 instances**, and a **Multi-AZ Amazon RDS database**.
@@ -110,6 +110,3 @@ For any issues or suggestions, please contact \[Your Name] at \[[your.email@exam
 ```
 
 ---
-
-Let me know if you want this README tailored for a specific cloud provider, database engine, or enhanced with diagrams or badges.
-```
