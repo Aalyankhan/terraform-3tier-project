@@ -44,7 +44,7 @@ This project sets up a **highly available 3-tier architecture** on AWS using Ter
 ````
 ## 📊 Architecture Diagram
 
-![AWS 3-Tier Architecture](AWS-3-Tier-Architecture.png)
+![AWS 3-Tier Architecture](/AWS-3-Tier-Architecture.png)
 
 ---
 
